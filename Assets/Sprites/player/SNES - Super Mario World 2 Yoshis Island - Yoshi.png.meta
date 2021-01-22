@@ -1,0 +1,1686 @@
+fileFormatVersion: 2
+guid: d6be250997281594f8360925c8f04ed4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -440162639786117485
+    second: Falling
+  - first:
+      213: 1125119240180443817
+    second: long fall
+  - first:
+      213: 1898684744726463694
+    second: Landing1
+  - first:
+      213: 8661364447713549378
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_3
+  - first:
+      213: -3737312000141616610
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_4
+  - first:
+      213: -5323120631066870357
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_5
+  - first:
+      213: -2723137356358556841
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_6
+  - first:
+      213: 8518059687737179191
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_7
+  - first:
+      213: 7988469955974576278
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_8
+  - first:
+      213: -1921230508956268440
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_9
+  - first:
+      213: -7276747922106156353
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_10
+  - first:
+      213: -2284282860255750420
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_11
+  - first:
+      213: -3137312840234126658
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_12
+  - first:
+      213: -4515840719004603422
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_13
+  - first:
+      213: 7819578261978727778
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_14
+  - first:
+      213: -738160142488384642
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_15
+  - first:
+      213: -7159359189170992102
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_16
+  - first:
+      213: -1289482424514933961
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_17
+  - first:
+      213: -4268575972822968289
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_18
+  - first:
+      213: -563902670215254567
+    second: Landing2
+  - first:
+      213: -6704979426493385525
+    second: walking9
+  - first:
+      213: -3651303170674450257
+    second: walking1
+  - first:
+      213: 2836273297757775335
+    second: walking2
+  - first:
+      213: 8806072359282912185
+    second: walking3
+  - first:
+      213: 2018204106791065044
+    second: walking4
+  - first:
+      213: 502965380483936003
+    second: walking5
+  - first:
+      213: 868382621083065752
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_26
+  - first:
+      213: 3997430956128505255
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_27
+  - first:
+      213: -1706374319148248762
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_28
+  - first:
+      213: 1898476192267551107
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_29
+  - first:
+      213: 8079886098925177116
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_30
+  - first:
+      213: 5180812007447386389
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_31
+  - first:
+      213: 8862834955382222405
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_32
+  - first:
+      213: -2922468360487253290
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_33
+  - first:
+      213: 8011229750879747963
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_34
+  - first:
+      213: -7530195523715072963
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_35
+  - first:
+      213: -4770231057341312576
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_36
+  - first:
+      213: -6146024669098245835
+    second: walking6
+  - first:
+      213: -6227710950369082608
+    second: walking7
+  - first:
+      213: -8976147477970959029
+    second: Attack
+  - first:
+      213: -5790025691325594974
+    second: Attack1
+  - first:
+      213: 5445358291655536463
+    second: Attack2
+  - first:
+      213: 5819044134831594230
+    second: Attack3
+  - first:
+      213: -1594675322191113023
+    second: Attack4
+  - first:
+      213: 4133406627565564172
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_44
+  - first:
+      213: -8130323464276869001
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_45
+  - first:
+      213: -8050717299539049225
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_46
+  - first:
+      213: 6793869985695361692
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_47
+  - first:
+      213: -543841456354249496
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_48
+  - first:
+      213: 9009169037044371248
+    second: Idle
+  - first:
+      213: -5918299196745912963
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_50
+  - first:
+      213: 6289709254223950262
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_51
+  - first:
+      213: -720920007522617566
+    second: walking8
+  - first:
+      213: 819965927550941902
+    second: walking10
+  - first:
+      213: -8763687097339110927
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_54
+  - first:
+      213: -4250209412302799758
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_55
+  - first:
+      213: 3182829332531472389
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_56
+  - first:
+      213: 8442360412103937683
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_57
+  - first:
+      213: 1827537785440634055
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_58
+  - first:
+      213: 4882987325388501920
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_59
+  - first:
+      213: 8875938405461936638
+    second: Jump
+  - first:
+      213: -7663985373243083684
+    second: Landing3
+  - first:
+      213: -7502644783326263290
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_62
+  - first:
+      213: -2392943725435959400
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_63
+  - first:
+      213: 114629588152376309
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_64
+  - first:
+      213: -4975888108169513611
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_65
+  - first:
+      213: -8486600328510183076
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_66
+  - first:
+      213: 7721336248822409932
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_67
+  - first:
+      213: -258473209301502984
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_68
+  - first:
+      213: -203044685003777227
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_69
+  - first:
+      213: -5267440809615318581
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_70
+  - first:
+      213: -5308809484108476603
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_71
+  - first:
+      213: -3490207455481484740
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_72
+  - first:
+      213: -3491522274976418106
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_73
+  - first:
+      213: 320817127630108677
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_74
+  - first:
+      213: -3084150585355294267
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_75
+  - first:
+      213: 2908821740361386505
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_76
+  - first:
+      213: -5981016999461198073
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_77
+  - first:
+      213: -3429629453538988516
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_78
+  - first:
+      213: -4215466993722797503
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_79
+  - first:
+      213: -3043122729514057339
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_80
+  - first:
+      213: -4301219187278013084
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_81
+  - first:
+      213: -3635698524237934112
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_82
+  - first:
+      213: -5931443999774223902
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_83
+  - first:
+      213: -5809919361691389157
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_84
+  - first:
+      213: 2218278228813194669
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_85
+  - first:
+      213: 1863597144770785422
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_86
+  - first:
+      213: 763465864454240450
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_87
+  - first:
+      213: -2316473536533541248
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_88
+  - first:
+      213: -3032640480585513614
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_89
+  - first:
+      213: 5100817417899191657
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_90
+  - first:
+      213: -3802666234357798079
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_91
+  - first:
+      213: -7289122431991733034
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_92
+  - first:
+      213: -2292415522306875848
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_93
+  - first:
+      213: -9093950774976915791
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_94
+  - first:
+      213: -3656405231157116959
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_95
+  - first:
+      213: 7001946721483382157
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_96
+  - first:
+      213: -6946499306872619221
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_97
+  - first:
+      213: 9207637951318583289
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_98
+  - first:
+      213: 5918063945666373264
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_99
+  - first:
+      213: 1576662195696817609
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_100
+  - first:
+      213: -628614830939527153
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_101
+  - first:
+      213: -2084539008686362422
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_102
+  - first:
+      213: 2115738493688932715
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_103
+  - first:
+      213: 5706632816321743977
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_104
+  - first:
+      213: -5308719245633915910
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_105
+  - first:
+      213: -1651414160912962398
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_106
+  - first:
+      213: 3917073878208223342
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_107
+  - first:
+      213: 1478749077232432812
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_108
+  - first:
+      213: 7396626120465346316
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_109
+  - first:
+      213: -5502932754917765406
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_110
+  - first:
+      213: 955057701170558452
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_111
+  - first:
+      213: -8600702234441388870
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_112
+  - first:
+      213: -8911461433900776583
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_113
+  - first:
+      213: -1282622380649192144
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_114
+  - first:
+      213: 3980771739441602473
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_115
+  - first:
+      213: -8581209807752344143
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_116
+  - first:
+      213: 4318550864714551715
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_117
+  - first:
+      213: -3458213347413602871
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_118
+  - first:
+      213: 2686031148255767741
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_119
+  - first:
+      213: -2797969441429933806
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_120
+  - first:
+      213: 1197819904443157679
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_121
+  - first:
+      213: 1126631427270835101
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_122
+  - first:
+      213: -4495182653475044667
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_123
+  - first:
+      213: 4437924839610365318
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_124
+  - first:
+      213: -529977533478260923
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_125
+  - first:
+      213: -4045309822470843096
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_126
+  - first:
+      213: 8859669277904971378
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_127
+  - first:
+      213: 2570650142729692186
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_128
+  - first:
+      213: 5104291989293782654
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_129
+  - first:
+      213: 663180087788927445
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_130
+  - first:
+      213: -5473119571711428984
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_131
+  - first:
+      213: -5010351746973490319
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_132
+  - first:
+      213: 1682032129724063904
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_133
+  - first:
+      213: -8985838768572421607
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_134
+  - first:
+      213: 1827003415328707858
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_135
+  - first:
+      213: -4039286991279452611
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_136
+  - first:
+      213: -5430950765818838836
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_137
+  - first:
+      213: 7215565463206605028
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_138
+  - first:
+      213: -2131163995923189198
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_139
+  - first:
+      213: 6975423051629786159
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_140
+  - first:
+      213: -4767541395427436381
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_141
+  - first:
+      213: -5366970729500940160
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_142
+  - first:
+      213: -2639132263842385711
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_143
+  - first:
+      213: -4346037400223057909
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_144
+  - first:
+      213: 3240220668157581605
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_145
+  - first:
+      213: 736702101843549805
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_146
+  - first:
+      213: 4944302839204507605
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_147
+  - first:
+      213: -694934100296628929
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_148
+  - first:
+      213: 7995692435164083970
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_149
+  - first:
+      213: 4010453577619797008
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_150
+  - first:
+      213: 4602561265676308825
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_151
+  - first:
+      213: 9083926996827720438
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_152
+  - first:
+      213: 2082861844070509216
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_153
+  - first:
+      213: 2670470287429614020
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_154
+  - first:
+      213: 1886157230741053639
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_155
+  - first:
+      213: 5112782505687266682
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_156
+  - first:
+      213: -2422967049918359430
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_157
+  - first:
+      213: 6057479068398932854
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_158
+  - first:
+      213: 4472798485717304219
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_159
+  - first:
+      213: 6001339394653424591
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_160
+  - first:
+      213: -8465481230719726072
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_161
+  - first:
+      213: 768102788827711423
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_162
+  - first:
+      213: -6704588472266106217
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_163
+  - first:
+      213: -9145763741670893730
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_164
+  - first:
+      213: -5486693150189392003
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_165
+  - first:
+      213: 717406743940333305
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_166
+  - first:
+      213: -2966583392157000571
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_167
+  - first:
+      213: -3774491621413505347
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_168
+  - first:
+      213: -4449854882231955463
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_169
+  - first:
+      213: -932127470782198268
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_170
+  - first:
+      213: -1114494504092926879
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_171
+  - first:
+      213: 7929274825115192527
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_172
+  - first:
+      213: 6068128921302980629
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_173
+  - first:
+      213: -4186906283489633772
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_174
+  - first:
+      213: 7266549813639535126
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_175
+  - first:
+      213: 5709082183726235254
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_176
+  - first:
+      213: 8199906114407012469
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_177
+  - first:
+      213: 1691866226801114993
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_178
+  - first:
+      213: 4958241912070975598
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_179
+  - first:
+      213: -6827180324851872206
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_180
+  - first:
+      213: 4012944765492757859
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_181
+  - first:
+      213: 7877288782882155137
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_182
+  - first:
+      213: 4157120473364529517
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_183
+  - first:
+      213: 721692076892273484
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_184
+  - first:
+      213: 5238035528219524975
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_185
+  - first:
+      213: -3480978990161721692
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_186
+  - first:
+      213: 7569043505683671756
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_187
+  - first:
+      213: -4801478041404878331
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_188
+  - first:
+      213: 7011246884664624281
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_189
+  - first:
+      213: 2808262721713492934
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_190
+  - first:
+      213: 8441629155809118104
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_191
+  - first:
+      213: 7953346983559624902
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_192
+  - first:
+      213: -299356300437879838
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_193
+  - first:
+      213: -8419505664247776914
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_194
+  - first:
+      213: 6930177172617527858
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_195
+  - first:
+      213: -5744589689671438205
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_196
+  - first:
+      213: -2153640826982469734
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_197
+  - first:
+      213: -3435822702547164769
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_198
+  - first:
+      213: -7409413377172622185
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_199
+  - first:
+      213: -8120478674619983138
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_200
+  - first:
+      213: -9214587349965316115
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_201
+  - first:
+      213: 3670503448915568782
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_202
+  - first:
+      213: 2965023717813392795
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_203
+  - first:
+      213: -6150630364743315358
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_204
+  - first:
+      213: 3763477878804312305
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_205
+  - first:
+      213: 1192814735885034838
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_206
+  - first:
+      213: -2072846408030577479
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_207
+  - first:
+      213: -6507636451579384941
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_208
+  - first:
+      213: 3381770661818693061
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_209
+  - first:
+      213: -4586218841131019618
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_210
+  - first:
+      213: 6236389654494920801
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_211
+  - first:
+      213: 891145997982892106
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_212
+  - first:
+      213: 8807677381949926038
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_213
+  - first:
+      213: 5271161944325428118
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_214
+  - first:
+      213: 2005186464679960218
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_215
+  - first:
+      213: 3135216212095800833
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_216
+  - first:
+      213: -922368108422359457
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_217
+  - first:
+      213: 891644613894637011
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_218
+  - first:
+      213: 4155675608357137154
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_219
+  - first:
+      213: 7168675414682678730
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_220
+  - first:
+      213: 1035133225058582117
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_221
+  - first:
+      213: 6914945496604882477
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_222
+  - first:
+      213: 2834617626382368444
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_223
+  - first:
+      213: -4474557258021205088
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_224
+  - first:
+      213: 4212347896469537545
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_225
+  - first:
+      213: 5309725812701582263
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_226
+  - first:
+      213: 7608777337781720204
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_227
+  - first:
+      213: 2318163804985006135
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_228
+  - first:
+      213: 6891728132245417245
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_229
+  - first:
+      213: 3849643389402082979
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_230
+  - first:
+      213: 1138927646215300716
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_231
+  - first:
+      213: 3212990816553496856
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_232
+  - first:
+      213: -23746856379751771
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_233
+  - first:
+      213: -2186412834100562045
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_234
+  - first:
+      213: 3732677161936835002
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_235
+  - first:
+      213: 932019114698939476
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_236
+  - first:
+      213: -9004716377931410999
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_237
+  - first:
+      213: -838417397976492560
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_238
+  - first:
+      213: 6711495644953314487
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_239
+  - first:
+      213: 674301852290277404
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_240
+  - first:
+      213: -2395275496723250435
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_241
+  - first:
+      213: -5476349008977554695
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_242
+  - first:
+      213: -8294840480640488051
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_243
+  - first:
+      213: 8239431946763054951
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_244
+  - first:
+      213: 1000086880436776282
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_245
+  - first:
+      213: 5408815299079899520
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_246
+  - first:
+      213: 929904930648134264
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_247
+  - first:
+      213: 5249445326207685355
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_248
+  - first:
+      213: 4211868067983102795
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_249
+  - first:
+      213: 475631677576154558
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_250
+  - first:
+      213: 8577361578970159229
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_251
+  - first:
+      213: -355315274983321427
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_252
+  - first:
+      213: -7805374560924700977
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_253
+  - first:
+      213: 3806830205764375520
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_254
+  - first:
+      213: -877156067944017978
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_255
+  - first:
+      213: 6621961605873418904
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_256
+  - first:
+      213: 7744090970600064580
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_257
+  - first:
+      213: -991109191191405197
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_258
+  - first:
+      213: 5403844745239735109
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_259
+  - first:
+      213: -5516061400689354271
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_260
+  - first:
+      213: 8670233714005493513
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_261
+  - first:
+      213: 8376256643334806305
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_262
+  - first:
+      213: 3140041854097628621
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_263
+  - first:
+      213: -581137637646708761
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_264
+  - first:
+      213: -2490601451538097898
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_265
+  - first:
+      213: 8225925648531024084
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_266
+  - first:
+      213: 1243014389009777788
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_267
+  - first:
+      213: -2756501927374087381
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_268
+  - first:
+      213: 8035041778776978855
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_269
+  - first:
+      213: -6166560734669724703
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_270
+  - first:
+      213: 1467574301240956556
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_271
+  - first:
+      213: -458263443976014550
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_272
+  - first:
+      213: -9002482643030121846
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_273
+  - first:
+      213: -2997091891650939993
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_274
+  - first:
+      213: -6571309554982649685
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_275
+  - first:
+      213: 675471509235293385
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_276
+  - first:
+      213: -9092890129375538023
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_277
+  - first:
+      213: 3795905240112065474
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_278
+  - first:
+      213: 3793204176350806837
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_279
+  - first:
+      213: 1653624837491621401
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_280
+  - first:
+      213: 9075255860504740782
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_281
+  - first:
+      213: 6061747445327744769
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_282
+  - first:
+      213: -759429189064714930
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_283
+  - first:
+      213: 6638395713562269374
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_284
+  - first:
+      213: 7653240836590828931
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_285
+  - first:
+      213: 8611386901672239563
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_286
+  - first:
+      213: -7804317173911633939
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_287
+  - first:
+      213: 9103374366396459807
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_288
+  - first:
+      213: -8805607824099151997
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_289
+  - first:
+      213: -6926547950494516798
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_290
+  - first:
+      213: 6531813004722208702
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_291
+  - first:
+      213: -4413445488850057116
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_292
+  - first:
+      213: 5271297506206753628
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_293
+  - first:
+      213: -4231321082512742756
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_294
+  - first:
+      213: -6523679916391634541
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_295
+  - first:
+      213: 7344109715561589499
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_296
+  - first:
+      213: 4750724710789669933
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_297
+  - first:
+      213: 5313015778701312307
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_298
+  - first:
+      213: 6525851370028307237
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_299
+  - first:
+      213: 97251079542274129
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_300
+  - first:
+      213: 3007212389580702737
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_301
+  - first:
+      213: -4133646612200350399
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_302
+  - first:
+      213: 7323710431670886329
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_303
+  - first:
+      213: -3717479114490135515
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_304
+  - first:
+      213: 5275814547515152943
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_305
+  - first:
+      213: 4576934203465741458
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_306
+  - first:
+      213: 1013727110048534633
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_307
+  - first:
+      213: -9151277193759835781
+    second: SNES - Super Mario World 2 Yoshis Island - Yoshi_308
+  - first:
+      213: 5689549525017616778
+    second: idle2
+  - first:
+      213: -5816305151653493610
+    second: idle3
+  - first:
+      213: -3349791277074648229
+    second: idle4
+  - first:
+      213: -56530663928349031
+    second: idle5
+  - first:
+      213: 1921872670793018507
+    second: idle6
+  - first:
+      213: -442114746122636674
+    second: idle7
+  - first:
+      213: -5466987538097405136
+    second: idle8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Falling
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2504
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3967624496a34e9f0800000000000000
+      internalID: -440162639786117485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: long fall
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2510
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaa9e0ecf93d9f00800000000000000
+      internalID: 1125119240180443817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landing1
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2473
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4cfd537bb795a10800000000000000
+      internalID: 1898684744726463694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landing2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2473
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddece5528d9c28f0800000000000000
+      internalID: -563902670215254567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2591
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f4a7ea18ff60d70800000000000000
+      internalID: 9009169037044371248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking8
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2650
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2277420a217cef5f0800000000000000
+      internalID: -720920007522617566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking10
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2650
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaf89faaaa116b00800000000000000
+      internalID: 819965927550941902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 2504
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef94ec9f3faad2b70800000000000000
+      internalID: 8875938405461936638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landing3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2473
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c547e0898ed04a590800000000000000
+      internalID: -7663985373243083684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Yoshi_287
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 146
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def348e11ee71b390800000000000000
+      internalID: -7804317173911633939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2589
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81eaa2062755fe40800000000000000
+      internalID: 5689549525017616778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2589
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6944b6ad745584fa0800000000000000
+      internalID: -5816305151653493610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2590
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53734ad4962381d0800000000000000
+      internalID: -3349791277074648229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2589
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e32a129a9273ff0800000000000000
+      internalID: -56530663928349031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2590
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c2626f20ddbaa10800000000000000
+      internalID: 1921872670793018507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2590
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72f5671bfa4dd9f0800000000000000
+      internalID: -442114746122636674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2589
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338738accb5124b0800000000000000
+      internalID: -5466987538097405136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking9
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2650
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc43f817cb023f2a0800000000000000
+      internalID: -6704979426493385525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2650
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa021b89c17f35dc0800000000000000
+      internalID: -3651303170674450257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking2
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2650
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e527ce79877c5720800000000000000
+      internalID: 2836273297757775335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking3
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2651
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bba1797724753a70800000000000000
+      internalID: 8806072359282912185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking4
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2651
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5148531f9120c10800000000000000
+      internalID: 2018204106791065044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2650
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f60164954eaf600800000000000000
+      internalID: 502965380483936003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking6
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 2650
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5318c91602fe4baa0800000000000000
+      internalID: -6146024669098245835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking7
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2650
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013c07fe2e9b299a0800000000000000
+      internalID: -6227710950369082608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2139
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45c50c2d615e6380800000000000000
+      internalID: -8976147477970959029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2139
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a207248f42b5afa0800000000000000
+      internalID: -5790025691325594974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2139
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f2bd8f38cc19b40800000000000000
+      internalID: 5445358291655536463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2139
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa15fc5fc561c050800000000000000
+      internalID: 5819044134831594230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2139
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c497b05e339ed9e0800000000000000
+      internalID: -1594675322191113023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
